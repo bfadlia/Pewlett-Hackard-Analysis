@@ -13,7 +13,7 @@ The focus of the analysis is as follows:
 ## Results
 
 The first part of the first requirement of the project listed retirement eligible employees and their titles as follows
- ![IMAGE_DESCRIPTION](/data/retirement_titles.png)
+ ![IMAGE_DESCRIPTION](/Data/retirement_titles.png)
 
 
 
