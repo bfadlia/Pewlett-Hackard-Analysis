@@ -12,8 +12,9 @@ The focus of the analysis is as follows:
 
 ## Results
 
-The first part of the first requirement of the project listed retirement eligible employees and their titles as follows
- ![IMAGE_DESCRIPTION](/Data/retirement_titles.png)
+ -The first part of the first requirement of the project listed retirement eligible employees and their titles as follows
+  ![IMAGE_DESCRIPTION](/Data/retirement_titles.png)
+  The query finds 133776 such employees however there are duplicates due to employees having multiple titles when they get promoted or transfered
 
 
 
