@@ -27,9 +27,13 @@ The focus of the analysis is as follows:
  ### 1.3
  A third query retrieves the number of employees by their most recent job title who are about to retire.
  The query reveals that some job titles like senior engineers have thousands of people retiring while other titles like manager only have a handful, so the Silver Tsuname hits differently for different titles.
+ 
  ![IMAGE_DESCRIPTION](/Data/retiring_titles.png)
  
+ ### 2.
+For the second requirement of the project, a mentorship-eligibility table was created to hold the current employees who were born between January 1, 1965 and December 31, 1965. There were 1549 employees identified to be elegible for this program to train for filling the upcoming vacant jobs. The number seems very low compared to the +90k employees set to retire
 
+ ![IMAGE_DESCRIPTION](/Data/mentorship_eligibility.png)
 
 ## Summary
 
