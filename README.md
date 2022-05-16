@@ -52,4 +52,5 @@ The queries first improved the one developed in requirement 2 by creating a tabl
 
 ## Summary
 
-
+ - The needs of each department in the Silver Tsunami is different. Some departments will be hit hard whilew others will see very small effect. Mentorship resources should therefore be prioritized and allocated accordingly
+ - The company is certainly going to be hurt badly if it does not plan early for this problem. The number of soon to be retired employees and hence the number ofg jobs that will need to be filled is orders of magnitues larger than the number of mentors and qualified replacement staff.
