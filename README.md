@@ -45,6 +45,10 @@ For the second requirement of the project, a mentorship-eligibility table was cr
 The queries first improved the one developed in requirement 2 by creating a table that groups retiring positions by department and title, then the roles that needed to be filled by department and title were counted. This revealed as can be seen below that the Silver Tsunami does not hit the Engineer job title equally in different departments. Production Department has more to worry about the Quality Management and Research departments
 
  ![IMAGE_DESCRIPTION](/Data/positions_to_fill.png)
+ 
+ A second query against that table tallied the number employees in lead position which makes them able to help in mentoring the next generation of Employees. This report can be carefully compared to the specific retirement numbers in each department to get a good handle on the severity of the coming problem. But in general the numbers show the ratio of mentors to nthe number of soon-to-be empty positions is very low and indicated the company would get a big hit.
+ 
+  ![IMAGE_DESCRIPTION](/Data/available_staff.png)
 
 ## Summary
 
