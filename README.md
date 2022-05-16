@@ -9,3 +9,13 @@ The focus of the analysis is as follows:
 -	Identify the employees eligible to be part of the mentorship program.
 -	Identify roles that need to be filled grouping them by title and department.
 -	Identify qualifiedemployees who can mentor the next generation of employees grouped by title and department.
+
+## Results
+
+The first part of the first requirement of the project listed retirement eligible employees and their titles. 
+
+
+
+## Summary
+
+
